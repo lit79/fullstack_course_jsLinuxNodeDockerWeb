@@ -1,4 +1,4 @@
-# Курс FullStack Junior WebDeveloper + Linux + Docker + Node.js ![](plans_lit79.pdf)
+# Курс FullStack Junior WebDeveloper + Linux + Docker + Node.js !(plans_lit79.pdf)
 1) Первое Знакомство 1 ч
 с Линукс +
 вступительное
