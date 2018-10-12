@@ -1,6 +1,7 @@
 
 # Курс FullStack Junior WebDeveloper + Linux + Docker + Node.js 
 <a href="https://github.com/lit79/fullstack_course_jsLinuxNodeDockerWeb/blob/master/plans_lit79.pdf">![](https://img.shields.io/badge/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B-PDF-green.svg)</a>
+<a href="https://lit79.github.io/fullstack_course_jsLinuxNodeDockerWeb/">![](https://img.shields.io/badge/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B-WEB-green.svg)</a>
 
 1) Первое Знакомство 1 ч
 с Линукс +
